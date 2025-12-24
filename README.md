@@ -4,6 +4,8 @@ A Windows-focused utility for **backing up, restoring, repairing, and cleaning C
 
 This tool is designed for users who manage **multiple Conda environments**, work with **scientific / GIS / data stacks**, or routinely encounter broken environments caused by solver conflicts, pip failures, or PATH pollution.
 
+**NOTE** *Disclaimer: Use this tool at your own risk. The author is not responsible for any data loss, system changes, or instability that may result from its use.
+
 ---
 
 ## Key Features
@@ -85,6 +87,7 @@ Recommended for:
 ---
 
 ### 4. AUTO-CLEAN Windows User PATH (Registry)
+**Disclaimer: Use this tool at your own risk. The author is not responsible for any data loss, system changes, or instability that may result from its use.**
 
 Removes **Anaconda / Miniconda paths** from the Windows **User PATH** registry key:
 
@@ -123,7 +126,7 @@ Useful as:
 ### 6. EXECUTE: Deep Clean & System Scrub
 
  **DESTRUCTIVE OPERATION**
-
+**Disclaimer: Use this tool at your own risk. The author is not responsible for any data loss, system changes, or instability that may result from its use.**
 Performs a **full Conda reset**:
 
 - Terminates locking Python / Conda processes
