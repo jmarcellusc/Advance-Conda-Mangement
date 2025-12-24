@@ -4,7 +4,7 @@ A Windows-focused utility for **backing up, restoring, repairing, and cleaning C
 
 This tool is designed for users who manage **multiple Conda environments**, work with **scientific / GIS / data stacks**, or routinely encounter broken environments caused by solver conflicts, pip failures, or PATH pollution.
 
-**NOTE** *Disclaimer: Use this tool at your own risk. The author is not responsible for any data loss, system changes, or instability that may result from its use.
+**NOTE** Please read: "Disclaimer: Use this tool at your own risk. The author is not responsible for any data loss, system changes, or instability that may result from its use."
 
 ---
 
