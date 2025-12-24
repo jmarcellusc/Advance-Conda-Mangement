@@ -4,6 +4,8 @@ A Windows-focused utility for **backing up, restoring, repairing, and cleaning C
 
 This tool is designed for users who manage **multiple Conda environments**, work with **scientific / GIS / data stacks**, or routinely encounter broken environments caused by solver conflicts, pip failures, or PATH pollution.
 
+Application only tested in a Windows environment with the latest mamba installed (12/2025)
+
 **NOTE** Please read: "Disclaimer: Use this tool at your own risk. The author is not responsible for any data loss, system changes, or instability that may result from its use."
 
 ---
@@ -53,17 +55,10 @@ conda env export --no-builds
 
 ---
 
-### 2. Scan and Install via Libmamba
+### 2. **DISABLED** - Scan and Install via Libmamba
 
-Restores an environment from a YAML file using:
+REMOVED - Needs correction to conda - Windows communication.
 
-- The **libmamba** dependency solver
-- Standard `conda env create` semantics
-
-Best used when:
-- The YAML is known to be clean
-- Pip usage is minimal
-- Fast restores are preferred
 
 ---
 
