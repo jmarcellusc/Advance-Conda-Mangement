@@ -8,6 +8,9 @@ This tool is designed for users who manage **multiple Conda environments**, work
 
 ---
 
+## File
+- Removed, currently updating.
+
 ## Key Features
 
 - Portable: all backups and metadata live next to the application or executable
