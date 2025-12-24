@@ -9,7 +9,8 @@ This tool is designed for users who manage **multiple Conda environments**, work
 ---
 
 ## File
-- Removed, currently updating.
+- **Version 1.1** (_1a.exe) - Status: Active. Disabled yaml installation. Additionally menu item #4 and #6 have not yet been tested in another PC (and might required code generalization). I recommend NOT to use these items and please read the disclaimer noted throughout this information posted.
+- **Verion 1.0** - Removed, errors with a dependency: gdk-pixbuf (a common dependency for graphics) includes a post-link script. Will investigate the potential bypass or correct commands. Also disabling libmamba compatibility.
 
 ## Key Features
 
