@@ -1,4 +1,4 @@
-# Advanced Conda Management Suite
+# Advanced Conda Management- Application
 
 A Windows-focused utility for **backing up, restoring, repairing, and cleaning Conda environments** with an emphasis on **stability**, **reproducibility**, and **DLL conflict prevention**.
 
